@@ -11,4 +11,4 @@
 ###  1. ERD 폴더 내에 있는 DCL을 실행해주신 다음 
 ###  2. src/test.maker/ mm_dao_tester , post_dao.tester, samplePost_maker 순으로 실행시켜줍니다. 
 ###  3. 서버 환경은 default가 아닌 지정한 폴더에 진입할수 있게 설정해주세요 
-#### 4.![이미지] (https://github.com/HyunJun-K/JSP_Project/blob/main/WebContent/images/1.PNG)
+![이미지] (https://github.com/HyunJun-K/JSP_Project/blob/main/WebContent/images/1.PNG)
