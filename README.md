@@ -8,6 +8,6 @@
 ### Clone 주의사항 
 
 ### TIP : 꼭 DB 드라이버를 연결하시고 계정 권한까지 부여하신 후 진행해주세요 
-###  1. ERD 폴더 내에 있는 DCL을 실행해주신 다음 
-###  2. src/test.maker/ mm_dao_tester , post_dao.tester, samplePost_maker 순으로 실행시켜줍니다. 
-###  3. Tomcat server는 Default가 아닌 without publishing 으로 설정해주세요
+####  1. ERD 폴더 내에 있는 DCL을 실행해주신 다음 
+####  2. src/test.maker/ mm_dao_tester , post_dao.tester, samplePost_maker 순서대로 실행시켜줍니다. 
+####  3. Tomcat server는 Default가 아닌 without publishing 으로 설정해주세요
