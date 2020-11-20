@@ -14,5 +14,4 @@
 ####  3. Tomcat server는 Default가 아닌 without publishing 으로 설정해주세요
 
 
-![Donutcat](https://user-images.githubusercontent.com/54566087/99820397-10168e80-2b94-11eb-941a-99f1f62ba4d9.gif)
 
