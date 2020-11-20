@@ -20,5 +20,10 @@
 
 
 ---
-### View
+### View & report
 ![View-신고](https://user-images.githubusercontent.com/54566087/99821878-e6f6fd80-2b95-11eb-9f2f-4031694985ea.gif)
+
+
+--- 
+### update & delete 
+![수정삭제](https://user-images.githubusercontent.com/54566087/99822252-5371fc80-2b96-11eb-915a-518859f03120.gif)
