@@ -15,7 +15,10 @@
 
 
 ---
-### 글등록 
+### write 
 ![글등록](https://user-images.githubusercontent.com/54566087/99821471-6f28d300-2b95-11eb-9ef3-6efab07d1dfc.gif)
 
 
+---
+### View
+![View-신고](https://user-images.githubusercontent.com/54566087/99821878-e6f6fd80-2b95-11eb-9f2f-4031694985ea.gif)
