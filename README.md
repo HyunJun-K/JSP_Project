@@ -14,4 +14,8 @@
 ####  3. Tomcat server는 Default가 아닌 without publishing 으로 설정해주세요
 
 
+---
+### 글등록 
+![글등록](https://user-images.githubusercontent.com/54566087/99821471-6f28d300-2b95-11eb-9ef3-6efab07d1dfc.gif)
+
 
